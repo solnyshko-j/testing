@@ -1,0 +1,11 @@
+(base) julia@192 issue_2 pass paytest_mark_parametrize % python -m pytest main.py
+================================================================================================= test session starts ==================================================================================================
+platform darwin -- Python 3.8.8, pytest-6.2.3, py-1.10.0, pluggy-0.13.1
+rootdir: /Users/julia/Documents/work/AAA/test_python/issue_2 pass paytest_mark_parametrize
+plugins: anyio-2.2.0
+collected 3 items                                                                                                                                                                                                      
+
+main.py ...                                                                                                                                                                                                      [100%]
+
+================================================================================================== 3 passed in 0.02s ===================================================================================================
+(
